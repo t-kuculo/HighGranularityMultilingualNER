@@ -4,6 +4,7 @@ BERT-based high granularity multilingual named entity recognition
 
 # Requirements
 python3
+
 pip3 install -r requirements.txt
 
 # Run
