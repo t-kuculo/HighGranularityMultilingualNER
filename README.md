@@ -8,9 +8,13 @@ Framework (http://ceur-ws.org/Vol-2611/short1.pdf) on a dataset collected from w
 
 # Requirements
 git clone https://github.com/huggingface/transformers
+
 cd transformers
+
 pip install .
+
 git pull
+
 pip install --upgrade
 
 # Data
